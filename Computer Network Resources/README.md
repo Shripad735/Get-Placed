@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Shripad SK
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 ## Youtube Channels
 
 * [Gate Smashers](https://www.youtube.com/watch?v=JFF2vJaN0Cw&list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)

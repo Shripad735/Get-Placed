@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2024 Shripad SK
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
 
 # OOPS Guidebook For Placement
 This is your guide repo to Object Oriented Programming in C++ and JAVA.

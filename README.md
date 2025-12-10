@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Shripad SK
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Computer Science Study Resources
 
 A curated collection of study materials, notes, and resources for Computer Science fundamentals including Operating Systems, DBMS, Computer Networks, OOPS, and System Design.
