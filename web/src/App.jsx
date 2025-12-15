@@ -100,7 +100,7 @@ function App() {
       )}
       
       <footer className="footer">
-        Made with <span className="heart">❤️</span> by{' '}
+        Made by{' '}
         <a href="https://www.shripadkhandare.in" target="_blank" rel="noopener noreferrer">
           Shripad SK
         </a>
