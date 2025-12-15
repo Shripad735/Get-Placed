@@ -14,6 +14,7 @@ export const resources = {
       { name: 'RedHat 124', path: 'CheatSheets/Redhat 124.pdf', type: 'pdf' },
       { name: 'RedHat 134', path: 'CheatSheets/Redhat 134.pdf', type: 'pdf' },
       { name: 'DBMS', path: 'CheatSheets/DBMS (R22A0504).pdf', type: 'pdf' },
+      { name: 'SQL', path: 'CheatSheets/SQL-Cheat-Sheet.pdf', type: 'pdf' },
       { name: 'Interview CheatSheet', path: 'CheatSheets/Interview_CheatSheet.webp', type: 'image' },
       { name: 'AWS Services', path: 'CheatSheets/AWS-Services', type: 'folder' },
     ]

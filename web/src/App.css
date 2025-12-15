@@ -138,6 +138,16 @@ body {
     --sidebar-width: 0;
   }
   
+  body {
+    overflow: auto;
+  }
+  
+  .app {
+    flex-direction: column;
+    height: auto;
+    min-height: 100vh;
+  }
+  
   .mobile-menu-btn {
     display: flex;
     align-items: center;
@@ -145,10 +155,21 @@ body {
   }
   
   .main-content {
+    margin-left: 0;
+    padding: 16px;
     padding-top: 70px;
+    padding-bottom: 80px;
+    overflow-y: visible;
+    min-height: calc(100vh - 80px);
   }
   
   .footer {
     left: 0;
+    position: fixed;
+  }
+  
+  .github-link {
+    top: 16px;
+    right: 16px;
   }
 }
