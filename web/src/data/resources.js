@@ -17,6 +17,7 @@ export const resources = {
       { name: 'SQL', path: 'CheatSheets/SQL-Cheat-Sheet.pdf', type: 'pdf' },
       { name: 'Interview CheatSheet', path: 'CheatSheets/Interview_CheatSheet.webp', type: 'image' },
       { name: 'AWS Services', path: 'CheatSheets/AWS-Services', type: 'folder' },
+      { name: 'AWS Cloud Practitioner Notes', path: 'CheatSheets/AWS-Services/AWS_Cloud_Practitioner_Notes_v1.pdf', type: 'pdf' },
     ]
   },
   'Computer Network Resources': {
